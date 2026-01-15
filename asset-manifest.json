@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/theguard-site/static/css/main.59ddf6bb.css",
-    "main.js": "/theguard-site/static/js/main.e73cb8c7.js",
+    "main.css": "/theguard-site/static/css/main.a33de6d2.css",
+    "main.js": "/theguard-site/static/js/main.3dfc1f00.js",
     "static/js/453.5bbc931e.chunk.js": "/theguard-site/static/js/453.5bbc931e.chunk.js",
     "static/media/calendar.csv": "/theguard-site/static/media/calendar.5e851735668b16d7a687.csv",
-    "static/media/vacances.csv": "/theguard-site/static/media/vacances.875e6fe7225030f12670.csv",
+    "static/media/holidays.csv": "/theguard-site/static/media/holidays.875e6fe7225030f12670.csv",
     "index.html": "/theguard-site/index.html",
-    "static/media/journees_type.csv": "/theguard-site/static/media/journees_type.123af8b1a3413ad21df4.csv",
-    "static/media/feries.csv": "/theguard-site/static/media/feries.13b2f407942f2de8f108.csv",
-    "static/media/types_garde.csv": "/theguard-site/static/media/types_garde.5b6431ff2b139ebaf645.csv",
-    "static/media/prix_horaire.csv": "/theguard-site/static/media/prix_horaire.8de5e254022d887f7c28.csv",
-    "main.59ddf6bb.css.map": "/theguard-site/static/css/main.59ddf6bb.css.map",
-    "main.e73cb8c7.js.map": "/theguard-site/static/js/main.e73cb8c7.js.map",
+    "static/media/day_types.csv": "/theguard-site/static/media/day_types.123af8b1a3413ad21df4.csv",
+    "static/media/vacations.csv": "/theguard-site/static/media/vacations.13b2f407942f2de8f108.csv",
+    "static/media/guard_types.csv": "/theguard-site/static/media/guard_types.a53674f326789c9bef43.csv",
+    "static/media/hourly_prices.csv": "/theguard-site/static/media/hourly_prices.8de5e254022d887f7c28.csv",
+    "main.a33de6d2.css.map": "/theguard-site/static/css/main.a33de6d2.css.map",
+    "main.3dfc1f00.js.map": "/theguard-site/static/js/main.3dfc1f00.js.map",
     "453.5bbc931e.chunk.js.map": "/theguard-site/static/js/453.5bbc931e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59ddf6bb.css",
-    "static/js/main.e73cb8c7.js"
+    "static/css/main.a33de6d2.css",
+    "static/js/main.3dfc1f00.js"
   ]
 }

@@ -1,0 +1,4 @@
+type,nb_enfants_parent1,nb_enfants_parent2,color
+garde_mixte,1,1,#2563eb
+garde_couple1,1,0,#0ea5e9
+garde_vacances,1,1,#22c55e

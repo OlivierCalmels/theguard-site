@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/theguard-site/static/css/main.bce84627.css",
-    "main.js": "/theguard-site/static/js/main.fe903773.js",
+    "main.css": "/theguard-site/static/css/main.59ddf6bb.css",
+    "main.js": "/theguard-site/static/js/main.e73cb8c7.js",
     "static/js/453.5bbc931e.chunk.js": "/theguard-site/static/js/453.5bbc931e.chunk.js",
+    "static/media/calendar.csv": "/theguard-site/static/media/calendar.5e851735668b16d7a687.csv",
+    "static/media/vacances.csv": "/theguard-site/static/media/vacances.875e6fe7225030f12670.csv",
     "index.html": "/theguard-site/index.html",
-    "static/media/journees_type.csv": "/theguard-site/static/media/journees_type.f7dc38122ea2f7ec9289.csv",
-    "static/media/calendar.csv": "/theguard-site/static/media/calendar.598f9c8174b0e89addd4.csv",
-    "static/media/vacances.csv": "/theguard-site/static/media/vacances.ec1328db8bec4c521594.csv",
+    "static/media/journees_type.csv": "/theguard-site/static/media/journees_type.123af8b1a3413ad21df4.csv",
+    "static/media/feries.csv": "/theguard-site/static/media/feries.13b2f407942f2de8f108.csv",
+    "static/media/types_garde.csv": "/theguard-site/static/media/types_garde.5b6431ff2b139ebaf645.csv",
     "static/media/prix_horaire.csv": "/theguard-site/static/media/prix_horaire.8de5e254022d887f7c28.csv",
-    "static/media/feries.csv": "/theguard-site/static/media/feries.7cd539470e2140da47f5.csv",
-    "main.bce84627.css.map": "/theguard-site/static/css/main.bce84627.css.map",
-    "main.fe903773.js.map": "/theguard-site/static/js/main.fe903773.js.map",
+    "main.59ddf6bb.css.map": "/theguard-site/static/css/main.59ddf6bb.css.map",
+    "main.e73cb8c7.js.map": "/theguard-site/static/js/main.e73cb8c7.js.map",
     "453.5bbc931e.chunk.js.map": "/theguard-site/static/js/453.5bbc931e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bce84627.css",
-    "static/js/main.fe903773.js"
+    "static/css/main.59ddf6bb.css",
+    "static/js/main.e73cb8c7.js"
   ]
 }

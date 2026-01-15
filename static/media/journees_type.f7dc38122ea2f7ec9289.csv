@@ -1,4 +1,0 @@
-type,segment,start,end,pause,ratio_parent1,ratio_parent2,nb_enfants_parent1,nb_enfants_parent2,is_cp,is_ferie
-standard,journee,08:30,18:00,1,0.5,0.5,1,1,false,false
-ferie,journee,09:00,17:00,1,0.5,0.5,1,1,false,true
-cp,matin,08:30,12:00,0,0.5,0.5,1,1,true,false

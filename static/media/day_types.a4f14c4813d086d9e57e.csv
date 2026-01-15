@@ -1,6 +1,0 @@
-day_type,segment1_start,segment1_end,segment1_type,segment2_start,segment2_end,segment2_type,segment3_start,segment3_end,segment3_type,segment4_start,segment4_end,segment4_type,day_color
-Lundi,08:30,12:00,C1E2,13:00,18:00,C1E1,,,,,,,#2563eb
-Mardi,08:30,12:00,C2E1,13:00,18:00,C2E1,,,,,,,#0ea5e9
-Mercredi sans E,08:30,12:00,C2E1,13:00,18:00,C2E1,,,,,,,#0ea5e9
-Mercredi avec E,08:30,12:00,C2E1,13:00,18:00,C2E1,,,,,,,#0ea5e9
-Vacances,09:00,17:00,C1E2,,,,,,,,,#22c55e

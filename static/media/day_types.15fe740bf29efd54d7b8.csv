@@ -1,4 +1,0 @@
-day_type,segment1_start,segment1_end,segment1_type,segment2_start,segment2_end,segment2_type,segment3_start,segment3_end,segment3_type,segment4_start,segment4_end,segment4_type
-journee_standard,08:30,12:00,garde_mixte,13:00,18:00,garde_mixte,,,,,
-journee_c1,08:30,12:00,garde_couple1,13:00,18:00,garde_couple1,,,,,
-vacances,09:00,17:00,garde_vacances,,,,,,,

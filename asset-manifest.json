@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/theguard-site/static/css/main.d741a64b.css",
-    "main.js": "/theguard-site/static/js/main.6c68d369.js",
+    "main.css": "/theguard-site/static/css/main.68e3a6c7.css",
+    "main.js": "/theguard-site/static/js/main.6a88dccc.js",
     "static/js/453.5bbc931e.chunk.js": "/theguard-site/static/js/453.5bbc931e.chunk.js",
-    "static/media/calendar.csv": "/theguard-site/static/media/calendar.14642ca3cb892a115627.csv",
-    "static/media/holidays.csv": "/theguard-site/static/media/holidays.875e6fe7225030f12670.csv",
+    "static/media/calendar.csv": "/theguard-site/static/media/calendar.8af7cbee716c1e31e280.csv",
     "index.html": "/theguard-site/index.html",
     "static/media/day_types.csv": "/theguard-site/static/media/day_types.d99966462a9b8d253d64.csv",
-    "static/media/vacations.csv": "/theguard-site/static/media/vacations.13b2f407942f2de8f108.csv",
     "static/media/guard_types.csv": "/theguard-site/static/media/guard_types.8622b5d323063e6ec0f9.csv",
     "static/media/hourly_prices.csv": "/theguard-site/static/media/hourly_prices.e260193267b762e50ba9.csv",
-    "main.d741a64b.css.map": "/theguard-site/static/css/main.d741a64b.css.map",
-    "main.6c68d369.js.map": "/theguard-site/static/js/main.6c68d369.js.map",
+    "main.68e3a6c7.css.map": "/theguard-site/static/css/main.68e3a6c7.css.map",
+    "main.6a88dccc.js.map": "/theguard-site/static/js/main.6a88dccc.js.map",
     "453.5bbc931e.chunk.js.map": "/theguard-site/static/js/453.5bbc931e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d741a64b.css",
-    "static/js/main.6c68d369.js"
+    "static/css/main.68e3a6c7.css",
+    "static/js/main.6a88dccc.js"
   ]
 }
